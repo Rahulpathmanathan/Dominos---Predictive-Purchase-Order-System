@@ -6,10 +6,10 @@ The Dominos - Predictive Purchase Order System aims to optimize the ingredient o
 
 **Skills Acquired**
 
-Data cleaning and preprocessing
-Exploratory data analysis (EDA)
-Time series forecasting
-Predictive modeling
+Data cleaning and preprocessing,
+Exploratory data analysis (EDA),
+Time series forecasting,
+Predictive modeling,
 Business decision making
 
 **Approach:**
